@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "yash_profile.jpg"
   name             : "Yashaswi Sinha" 
   bio              : "PhD student @ IISc"
   location         : "Bengaluru"
